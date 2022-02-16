@@ -2,6 +2,5 @@
 
 Hello there! 
 
-Goodbye!!
 
 ### Test
